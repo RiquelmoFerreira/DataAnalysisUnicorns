@@ -1,3 +1,49 @@
+# Português:
+# Análise de Empresas Unicórnios
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/RiquelmoFerreira/DataAnalysisUnicorns/blob/main/License)
+
+# Sobre o Projeto
+
+Esse projeto foi feito durante o treino prático do curso de Python para Análise de Dados conduzido por DataViking e o arquivo está disponível nas linguagens: Português (Projeto_Unicornios.ipynb) e Inglês (Unicorn_Project.ipynb.ipynb)
+
+Esse projeto é uma análise do número de Empresas de Unicórnios geradas por cada país, nesse projeto foram usadas a linguagem Python e suas Bibliotecas Numpy, Pandas, Seaborn, Matplotlib e Plotly no ambiente do Jupyter Notebook.
+
+O termo unicórnio refere-se a uma empresa start-up de capital fechado com um valor de mais de 1 bilhão de dólares. É comumente usado na indústria de capital de risco. O termo foi popularizado pela primeira vez pela capitalista de risco Aileen Lee. As empresas unicórnios são muito raras e exigem inovação.
+
+O Dataset possui o Nome da Empresa, o Valor da Empresa em Dólares, a Data que a empresa se tornou um Unicôrnio, o País, a Cidade, Ramo da Indústria e Investidores. Buscamos entender quais ramos da indústria possuem mais empresas unicôrnios, os países que mais geram essas empresas, analisamos também a quantidade de empresas unicôrnios presentes no Brasil e por fim os países que mais geram valor com empresas unicôrnio.
+
+Primeiramente, usamos um gráfico de barras para entender quais áreas geram mais unicôrnios e podemos analisar que o setor de Fintech e de Internet e Serviços são os que mais geram empresas unicôrnios. Em seguida, plotamos um gráfico Treemap para entender quais 10 países que mais geram esse tipo de empresas e podemos analisar que o Top 10 é formado por: Estados Unidos, China, Índia, Reino Unido, Alemanha, Israel, França, Brasil, Canadá e Córeia do Sul. Após isso agrupamos os dados para entender quantas empresas unicôrnios brasileiras estão presentes no Dataset e podemos analisar que existem 13 empresas no total. Por fim, plotamos um gráfico em linha com os países que mais geram valor com empresas unicôrnios, o TOP 10 ficou assim: Estados Unidos, China, Reino Unido, India, Alemanha, Brasil, Suécia, Austrália, Israel e Canadá. Podemos analisar que existem algumas diferenças entre os 10 países que mais geram empresas unicôrnio em relação aos 10 países que mais geram valor com essas empresas.
+
+## Visão Geral do Projeto
+![VisaoGeral](https://github.com/RiquelmoFerreira/Images/blob/main/17.png)
+
+## Visão Geral do Gráfico
+![GraficoGeral](https://github.com/RiquelmoFerreira/Images/blob/main/18.png)
+
+# Tecnologias e Bibliotecas
+- Python para Análise de Dados
+- Numpy
+- Pandas
+- Seaborn
+- Matplotlib
+- Plotly
+
+# Rode o Projeto:
+Pré-Requisitos:
+- Python 3.11.0 ou superior
+- Jupyter Notebook
+- Numpy
+- Pandas
+- Seaborn
+- Matplotlib
+- Plotly
+- Power Point
+
+# Autor
+Riquelmo Afonso Avelar Ferreira
+
+#
+
 # English:
 # Unicorn Companies Analysis Project
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/RiquelmoFerreira/DataAnalysisUnicorns/blob/main/License)
@@ -45,50 +91,6 @@ Riquelmo Afonso Avelar Ferreira
 
 https://www.linkedin.com/in/riquelmo-afonso-avelar-ferreira-df5183/?locale=en_US
 #
-
-# Português:
-# Análise de Empresas Unicórnios
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/RiquelmoFerreira/DataAnalysisUnicorns/blob/main/License)
-
-# Sobre o Projeto
-
-Esse projeto foi feito durante o treino prático do curso de Python para Análise de Dados conduzido por DataViking e o arquivo está disponível nas linguagens: Português (Projeto_Unicornios.ipynb) e Inglês (Unicorn_Project.ipynb.ipynb)
-
-Esse projeto é uma análise do número de Empresas de Unicórnios geradas por cada país, nesse projeto foram usadas a linguagem Python e suas Bibliotecas Numpy, Pandas, Seaborn, Matplotlib e Plotly no ambiente do Jupyter Notebook.
-
-O termo unicórnio refere-se a uma empresa start-up de capital fechado com um valor de mais de 1 bilhão de dólares. É comumente usado na indústria de capital de risco. O termo foi popularizado pela primeira vez pela capitalista de risco Aileen Lee. As empresas unicórnios são muito raras e exigem inovação.
-
-O Dataset possui o Nome da Empresa, o Valor da Empresa em Dólares, a Data que a empresa se tornou um Unicôrnio, o País, a Cidade, Ramo da Indústria e Investidores. Buscamos entender quais ramos da indústria possuem mais empresas unicôrnios, os países que mais geram essas empresas, analisamos também a quantidade de empresas unicôrnios presentes no Brasil e por fim os países que mais geram valor com empresas unicôrnio.
-
-Primeiramente, usamos um gráfico de barras para entender quais áreas geram mais unicôrnios e podemos analisar que o setor de Fintech e de Internet e Serviços são os que mais geram empresas unicôrnios. Em seguida, plotamos um gráfico Treemap para entender quais 10 países que mais geram esse tipo de empresas e podemos analisar que o Top 10 é formado por: Estados Unidos, China, Índia, Reino Unido, Alemanha, Israel, França, Brasil, Canadá e Córeia do Sul. Após isso agrupamos os dados para entender quantas empresas unicôrnios brasileiras estão presentes no Dataset e podemos analisar que existem 13 empresas no total. Por fim, plotamos um gráfico em linha com os países que mais geram valor com empresas unicôrnios, o TOP 10 ficou assim: Estados Unidos, China, Reino Unido, India, Alemanha, Brasil, Suécia, Austrália, Israel e Canadá. Podemos analisar que existem algumas diferenças entre os 10 países que mais geram empresas unicôrnio em relação aos 10 países que mais geram valor com essas empresas.
-
-## Visão Geral do Projeto
-![VisaoGeral](https://github.com/RiquelmoFerreira/Images/blob/main/17.png)
-
-## Visão Geral do Gráfico
-![GraficoGeral](https://github.com/RiquelmoFerreira/Images/blob/main/18.png)
-
-# Tecnologias e Bibliotecas
-- Python para Análise de Dados
-- Numpy
-- Pandas
-- Seaborn
-- Matplotlib
-- Plotly
-
-# Rode o Projeto:
-Pré-Requisitos:
-- Python 3.11.0 ou superior
-- Jupyter Notebook
-- Numpy
-- Pandas
-- Seaborn
-- Matplotlib
-- Plotly
-- Power Point
-
-# Autor
-Riquelmo Afonso Avelar Ferreira
 
 https://www.linkedin.com/in/riquelmo-afonso-avelar-ferreira-df5183/
 
